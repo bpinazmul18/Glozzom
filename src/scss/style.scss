@@ -71,6 +71,12 @@ $dark-overlay: rgba(0,0,0,0.7);
     }
 }
 
+#photos{
+    img{
+        min-height: 250px;
+    }
+}
+
 @media(max-width: 767px){
     .navbar{
         .nav-item{
