@@ -58,6 +58,9 @@
 #photos img {
   min-height: 250px; }
 
+#copy-right {
+  background: #000; }
+
 @media (max-width: 767px) {
   .navbar .nav-item {
     padding-left: 0; }
